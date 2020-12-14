@@ -1,0 +1,11 @@
+E:\Projects\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.exe
+E:\Projects\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.deps.json
+E:\Projects\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.runtimeconfig.json
+E:\Projects\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.runtimeconfig.dev.json
+E:\Projects\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.dll
+E:\Projects\CodingChallenges\bin\Debug\netcoreapp3.1\CodingChallenges.pdb
+E:\Projects\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.csprojAssemblyReference.cache
+E:\Projects\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.AssemblyInfoInputs.cache
+E:\Projects\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.AssemblyInfo.cs
+E:\Projects\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.dll
+E:\Projects\CodingChallenges\obj\Debug\netcoreapp3.1\CodingChallenges.pdb

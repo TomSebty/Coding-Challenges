@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\CodingChallenges\\CodingChallenges.csproj": {}
+    "e:\\Projects\\CodingChallenges\\CodingChallenges.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\CodingChallenges\\CodingChallenges.csproj": {
+    "e:\\Projects\\CodingChallenges\\CodingChallenges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CodingChallenges\\CodingChallenges.csproj",
+        "projectUniqueName": "e:\\Projects\\CodingChallenges\\CodingChallenges.csproj",
         "projectName": "CodingChallenges",
-        "projectPath": "E:\\Projects\\CodingChallenges\\CodingChallenges.csproj",
+        "projectPath": "e:\\Projects\\CodingChallenges\\CodingChallenges.csproj",
         "packagesPath": "C:\\Users\\ridam\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\CodingChallenges\\obj\\",
+        "outputPath": "e:\\Projects\\CodingChallenges\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ridam\\AppData\\Roaming\\NuGet\\NuGet.Config",
